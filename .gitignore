@@ -1,0 +1,9 @@
+/todolist/settings.py
+/todolist/asgi.py
+/todolist/__init__.py
+/todolist/wsgi.py
+/base/__init__.py
+/base/migrations
+main.py
+manage.py
+db.sqlite3
